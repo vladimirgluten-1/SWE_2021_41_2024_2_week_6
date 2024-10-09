@@ -65,7 +65,7 @@ def isHappy(n):
 >   if(tmp1==20): return False
 >   if(tmp1==1): return True;
 > ```
-> I have created the cycle by squaring every digit of the number(tmp1) into 
+> I have created the cycle by squaring every digit of the number(tmp1) and adding them up to another variable(tmp2)
 
 
 

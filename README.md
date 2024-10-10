@@ -4,7 +4,7 @@
 
 - Link to my code! [[link]](https://github.com/vladimirgluten-1/SWE_2021_41_2024_2_week_4/blob/main/2024310693_%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%B5.ipynb)
 
-```
+```python
 def isHappy(n):
   tmp1=n
   tmp2=0
